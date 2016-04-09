@@ -1,5 +1,5 @@
-# vuejs-rating
-A simple star rating system using component in Vue.js
+# vuejs-favorite
+A simple favoriting system using component in Vue.js
 
 
 
